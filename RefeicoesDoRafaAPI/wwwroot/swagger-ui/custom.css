@@ -1,0 +1,51 @@
+﻿hgroup span {
+    display: none;
+}
+
+#swagger-ui > section > div.swagger-ui > div:nth-child(2) > div:nth-child(4) > section {
+    display: none;
+}
+
+#get_Cliente_responses {
+    display: none;
+}
+
+#post_Cliente_responses {
+    display: none;
+}
+
+#put_Cliente_responses {
+    display: none;
+}
+
+#delete_Cliente_responses {
+    display: none;
+}
+
+#get_Pedido_responses {
+    display: none;
+}
+
+#post_Pedido_responses {
+    display: none;
+}
+
+#put_Pedido_responses {
+    display: none;
+}
+
+#delete_Pedido_responses {
+    display: none;
+}
+
+#get_Refeicao_responses {
+    display: none;
+}
+
+.prop-format {
+    display: none;
+}
+
+.responses-inner h4 {
+    display: none;
+}
